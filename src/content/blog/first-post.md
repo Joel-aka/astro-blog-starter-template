@@ -5,12 +5,65 @@ pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+准备工作
+推荐使用Usa的全局网络+谷歌浏览器无痕模式登录
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+登录邮箱
+打开邮箱登录链接：https://outlook.office365.com/owa/?realm=email.phoenix.edu
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+输入用户名，密码，点击登录
+
+学校强制要求添加MFA，一年只能更改一次
+建议选择Email（使用常用邮箱，换设备登录都需要验证），进入下一步
+
+输入个人邮箱，下一步
+
+输入验证码下一步跳转到Edu邮箱界面
+
+个别Edu设置了设备验证器，联系客服拿验证器链接（不一定每个都有，没有的跳过即可）
+
+把验证器链接复制到任意浏览器，中间实时滚动的验证码复制过去验证即可
+
+一直下一步即可
+
+一直下一步
+
+设置邮件转发（防止遗漏重要的邮件）
+打开链接：https://outlook.office365.com/mail/options/mail/forwarding
+● 点击邮件转发
+● 输入转发到自己的个人邮箱
+● 点击保存（看不懂就切换到中文）
+邮箱二次验证
+打开：https://mysignins.microsoft.com/security-info
+
+辅助信息能设置的全部都添加（个别Edu设置了验证器，先添加你的在删除默认的，最少保持有一两个添加中）
+修改密码
+打开修改密码链接：https://ecampus.phoenix.edu/financialplan/
+
+底部找到修改密码的链接（找不到的话就翻译成中文看）
+
+#做教程的时候链接一直转圈，如图所示遇到的看2.5通过密保改密码
+
+修改密保-微软密保
+打开修改密码链接：https://my.phoenix.edu/profile
+
+看图片，点击修改
+
+不管几个选项都改成自己的个人邮箱，然后选一个设置为常用 点击保存
+忘记密码--重置密码（必须是已经设置过密保看2.4）
+打开链接：https://login.phoenix.edu/
+
+点击忘记密码
+
+输入你设置的密保邮箱，点击下一步
+
+你的密保邮箱会收到一封学校的重置链接，多刷新，有可能跑垃圾箱
+
+点击重置密码链接（有效期60分钟，超时重发）
+
+改完搞定收工，不懂看翻译
+
+多个步骤只是为了保证账户长久使用，别嫌麻烦！！！！
+
